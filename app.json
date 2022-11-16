@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "beer-counter",
+    "slug": "beer-counter",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
