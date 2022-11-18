@@ -1,6 +1,6 @@
 import { StatusBar } from "expo-status-bar";
 import React from "react";
-import Counter from "./Counter";
+import MyStack from "./navigation";
 import styled from "styled-components";
 
 const Container = styled.View`
@@ -12,7 +12,7 @@ const Container = styled.View`
 export default function App() {
   return (
     <Container>
-      <Counter />
+      <MyStack />
       <StatusBar style="dark" />
     </Container>
   );
